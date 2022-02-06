@@ -1,3 +1,13 @@
+# Get started with React and videojs-wavesurfer
+
+This follows the guidelines here:
+
+https://collab-project.github.io/videojs-wavesurfer/#/react
+
+The code runs fine without any problem:
+
+![Screenshot](doc/Screenshot_20220206_050750.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
